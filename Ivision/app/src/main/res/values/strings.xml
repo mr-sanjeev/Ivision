@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iVision</string>
+
+    <string name="fblink">
+        <a href="https://www.instagram.com/mr.______.sanjeev/">
+            <font color="#ff0000">Instagram - </font>@mr.______.sanjeev</a>
+    </string>
+</resources>
